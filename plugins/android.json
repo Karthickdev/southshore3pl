@@ -1,0 +1,48 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-advanced-http": {
+      "ANDROIDBLACKLISTSECURESOCKETPROTOCOLS": "SSLv3,TLSv1",
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-printer": {
+      "ANDROID_SUPPORT_V4_VERSION": "28.+",
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    },
+    "cordova-plugin-networkinterface": {
+      "PACKAGE_NAME": "com.cityon.southshore3pl"
+    }
+  },
+  "dependent_plugins": {}
+}
